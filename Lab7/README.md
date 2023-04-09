@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/108588991/230776660-ca6f0aec-d557-4686-ba1b-a482ad7bf5d5.png)
 
-<h2>Страница с специальностями</h2>
+<h2>Страница со специальностями</h2>
 
 ![image](https://user-images.githubusercontent.com/108588991/230776773-744d5a26-97f4-454a-94f9-e2f295ee5029.png)
 
