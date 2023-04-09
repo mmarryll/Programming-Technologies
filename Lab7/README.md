@@ -1,5 +1,5 @@
-Скрины внешнего оформления сайта:
-Страница с факультетами
+<h1>Скрины внешнего оформления сайта:</h1>
+<h2>Страница с факультетами</h2>
 ![image](https://user-images.githubusercontent.com/108588991/230776689-e59184bf-f43d-4179-a32e-161f2611e152.png)
 ![image](https://user-images.githubusercontent.com/108588991/230776720-a3c1445c-b1d6-47f8-9611-6f3f274d9db6.png)
 ![image](https://user-images.githubusercontent.com/108588991/230776660-ca6f0aec-d557-4686-ba1b-a482ad7bf5d5.png)
