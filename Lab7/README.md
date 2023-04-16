@@ -1,4 +1,6 @@
 <h1>Скрины внешнего оформления сайта "Справочник Абитуриента" </h1>
+Ссылка на сайт: https://mmarryll.github.io/Spravochnik/
+
 <h2>Страница авторизации</h2>
 
 ![image](https://user-images.githubusercontent.com/108588991/232318400-5e1d98b6-1a33-457f-8b53-bc3964810257.png)
