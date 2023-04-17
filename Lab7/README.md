@@ -5,6 +5,10 @@
 
 ![image](https://user-images.githubusercontent.com/108588991/232318400-5e1d98b6-1a33-457f-8b53-bc3964810257.png)
 
+<h2>Окно Редактирования</h2>
+
+![image](https://user-images.githubusercontent.com/108588991/232518898-6ab1d325-66c3-4870-8f2b-8761aca9158d.png)
+
 <h2>Страница с факультетами</h2>
 
 ![image](https://user-images.githubusercontent.com/108588991/232318562-43a8f659-23cf-4b33-9226-e70d8d495e8a.png)
